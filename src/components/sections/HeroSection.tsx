@@ -10,7 +10,7 @@ const stats = [
 
 const HeroSection = () => {
   return (
-    <section className="relative min-h-[85vh] flex items-center justify-center overflow-hidden">
+    <section className="relative min-h-[70vh] flex items-center justify-center overflow-hidden">
       <div
         className="absolute inset-0 bg-cover bg-center"
         style={{ backgroundImage: `url(${heroBg})` }}
@@ -20,7 +20,7 @@ const HeroSection = () => {
         <p className="font-body text-sm tracking-[0.3em] uppercase text-primary mb-6 animate-fade-up">
           NepCare Hospitality Management
         </p>
-        <h1 className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-heading leading-tight mb-8 animate-fade-up-delay-1 max-w-4xl mx-auto">
+        <h1 className="text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-heading leading-tight mb-8 animate-fade-up-delay-1 max-w-3xl mx-auto">
           Connecting Global Hospitality to India's Strongest Travel Agent Ecosystem
         </h1>
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-12 leading-relaxed animate-fade-up-delay-2">
