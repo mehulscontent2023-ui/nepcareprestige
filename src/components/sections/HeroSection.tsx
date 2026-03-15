@@ -3,9 +3,9 @@ import { GradientButton } from "@/components/ui/gradient-button";
 import { Users, Globe, Award } from "lucide-react";
 
 const stats = [
-  { icon: Users, value: "10,000+", label: "Travel Agents" },
-  { icon: Globe, value: "5", label: "Countries" },
-  { icon: Award, value: "15+", label: "Years Experience" },
+  { icon: Users, value: "XYZ+", label: "Travel Agents" },
+  { icon: Globe, value: "XYZ", label: "Countries" },
+  { icon: Award, value: "XYZ+", label: "Years Experience" },
 ];
 
 const HeroSection = () => {

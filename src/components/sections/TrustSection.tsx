@@ -3,10 +3,10 @@ import { GradientButton } from "@/components/ui/gradient-button";
 import { TrendingUp, Briefcase, Calendar, Target } from "lucide-react";
 
 const metrics = [
-  { icon: Briefcase, value: "120+", label: "Client Projects" },
-  { icon: TrendingUp, value: "35%", label: "Annual Growth" },
-  { icon: Calendar, value: "15+", label: "Years of Experience" },
-  { icon: Target, value: "98%", label: "Client Retention" },
+  { icon: Briefcase, value: "XYZ+", label: "Client Projects" },
+  { icon: TrendingUp, value: "XY%", label: "Annual Growth" },
+  { icon: Calendar, value: "XYZ+", label: "Years of Experience" },
+  { icon: Target, value: "XY%", label: "Client Retention" },
 ];
 
 const TrustSection = () => {
